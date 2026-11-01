@@ -1,6 +1,6 @@
 cask "accounts-manager-for-claude" do
-  version "1.0.1"
-  sha256 "5e122ed212ca9156d94fed11771f34a48fcf52dffc27ad1ad22998bbc5ab0c31"
+  version "1.1.0"
+  sha256 "7fd7693c5a6068c71e8b3da668532a408ed490a43942138da339d58328e7c62c"
 
   url "https://github.com/NurFajarSA/claude-switch/releases/download/v#{version}/AccountsManager-#{version}-macos-arm64.zip"
   name "Accounts Manager for Claude"
